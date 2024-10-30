@@ -59,6 +59,23 @@ This Telegram bot, built with aiogram, provides a card checking service for educ
 - User data storage
 - Privacy protection
 
+![image](https://github.com/user-attachments/assets/28d41d9b-503f-4b3d-9b4b-9e448a92c01c)
+
+
+![image](https://github.com/user-attachments/assets/ea808ad3-4801-4ef0-8134-cde939fba218)
+
+![image](https://github.com/user-attachments/assets/3aeb581f-1c3a-407a-8e42-6f2545239134)
+
+
+![image](https://github.com/user-attachments/assets/051f93b7-a0b1-4202-9861-1b52a4eef661)
+
+![image](https://github.com/user-attachments/assets/cc38c9a6-b691-4be0-b183-70af24e3fc0d)
+
+
+
+
+
+
 ## Installation
 
 1. Clone the repository:
